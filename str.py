@@ -1,4 +1,4 @@
 str="mahesh"
 lst=list(str)
-l=[::-1]
+l=lst[ : :-1]
 print(l)
